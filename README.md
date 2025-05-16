@@ -1,5 +1,8 @@
-# 🌐 Codecaracha - Plataforma de Gestión de Sitios Web para Negocios
+<p align="center">
+  <img width="500" height="500" src="https://github.com/code-caracha/codecaracha/blob/main/logo_1.png?raw=true">
+</p>
 
+## 🌐 Plataforma de Gestión de Sitios Web para Negocios
 Codecaracha es una aplicación moderna diseñada para ayudar a negocios a crear, administrar y optimizar sus sitios web de manera rápida, visual y eficiente. Aprovecha lo mejor de las tecnologías web actuales para ofrecer experiencias rápidas, atractivas y totalmente personalizables.
 
 ## 🚀 Características Principales
