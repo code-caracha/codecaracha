@@ -26,13 +26,3 @@ Codecaracha es una aplicación moderna diseñada para ayudar a negocios a crear,
 | **Anime.js**  | Librería ligera para animaciones JavaScript. |
 | **GSAP**      | Librería profesional de animación web. |
 | **Aceternity UI** | Conjunto de componentes UI estéticos y accesibles. |
-
----
-
-## 📦 Instalación
-
-```bash
-git clone https://github.com/tuusuario/webmanager.git
-cd webmanager
-npm install
-npm run dev
