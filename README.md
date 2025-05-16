@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="500" src="https://github.com/code-caracha/codecaracha/blob/main/logo_1.png?raw=true">
+  <img width="500" height="500" src="https://github.com/code-caracha/codecaracha/blob/main/logo_1.svg?raw=true">
 </p>
 
 ## 🌐 Plataforma de Gestión de Sitios Web para Negocios
